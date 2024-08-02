@@ -1,0 +1,57 @@
+{
+    "name": "Abhishek Deore",
+    "address": "Pune, Maharashtra, 411048",
+    "email": "abhishek.22110052@viit.ac.in",
+    "linkedin": "linkedin.com/in/abhishek",
+    "headline": "Aspiring Software Developer and Creative Problem Solver. Dedicated to enhancing digital security, software performance, and development through innovative solutions. Passionate about leveraging technology to address complex challenges and optimize system performance.",
+    "education": {
+      "degree": "BTech",
+      "field": "Information Technology",
+      "graduation_year": 2025,
+      "gpa": 9.18,
+      "institution": "Vishwakarma Institute Of Information Technology, Pune"
+    },
+    "projects": [
+      {
+        "name": "Deep-Fake Voice Detection",
+        "description": "Distinguished real from fake audio using CNNs on Mel-frequency spectrogram distortions and various classification algorithms, leveraging diverse features of RVC-cloned audio clips."
+      },
+      {
+        "name": "Port Scan Detection using ML",
+        "description": "Led data collection and processing using Wireshark, Scapy, and Tshark to create an 8-feature dataset for identifying port scan packets, demonstrating the voting classifier's superior accuracy and efficiency in enhancing network security."
+      },
+      {
+        "name": "CTF Web Application",
+        "description": "Developed a cybersecurity training application with challenges in Web, Forensics, and Cryptography, enhancing security, reliability, and user experience using ReactJS, NodeJS, and Express, and efficiently managing data with PL SQL."
+      },
+      {
+        "name": "Hotel Management System",
+        "description": "Developed an automated hotel management system for tasks like room booking and employee onboarding, featuring a user-friendly GUI with SWING and AWT, and utilizing MySQL for database management."
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Bash",
+      "SQL",
+      "Linux",
+      "Memory Forensics",
+      "NodeJS",
+      "Networking",
+      "Wireshark"
+    ],
+    "achievements": [
+      "Completed the CCNA modules 1 and 2.",
+      "Participated in Digital Defenders CTF, and secured a position in the top 25."
+    ],
+    "experience": [
+      {
+        "title": "Associate Tech Head",
+        "organization": "IEEE VIIT Student Branch",
+        "description": "Worked on the official website of the IEEE VIIT Student Branch. Conducted technical events for the college."
+      }
+    ]
+  }
+  
+  

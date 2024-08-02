@@ -1,0 +1,2 @@
+Hey, ChatGPTthis is my resume 
+can you parse the content inside of it in json
